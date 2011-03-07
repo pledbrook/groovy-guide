@@ -1,0 +1,19 @@
+The standard process for installing Groovy on all platforms is:
+
+# [download|http://groovy.codehaus.org/Download] a binary distribution of Groovy
+# unpack it to your local file system
+# set your @GROOVY_HOME@ environment variable to the directory where you unpacked the distribution
+# add @GROOVY_HOME/bin@ to your @PATH@ environment variable
+# set your @JAVA_HOME@ environment variable to point to your JDK
+
+For example, say you download the file @groovy-binary-1.7.8.zip@ and unpack it to the directory @/opt/java@. Then @GROOVY_HOME@ should be set to @/opt/java/groovy-1.7.8@.
+
+Once you complete these steps, you're ready to use Groovy. You can verify that the installation worked by typing the following in a command shell:
+
+{code}
+groovy -e "println 'Hello world'"
+{code}
+
+which should print the string "Hello world" to the console.
+
+The @groovy@ command is only one of several that are available for your use.

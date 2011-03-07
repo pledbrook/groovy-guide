@@ -1,0 +1,13 @@
+Groovy is an agile and dynamic language for the Java Virtual Machine. It builds upon the strengths of Java and adds powerful features inspired by languages like Python, Ruby and Smalltalk.
+
+With it you get:
+* modern programming features
+* a shallow learning curve for Java developers
+* easy creation of Domain-Specific Languages
+* compact syntax for code that is easy to read and understand
+* powerful scripting with enhanced file manipulation
+* easy Ant integration out-of-the-box
+* simplified unit testing and mocking
+* seamless integration with all existing Java classes and libraries
+* Java bytecode - just add Groovy JAR to your classpath!
+

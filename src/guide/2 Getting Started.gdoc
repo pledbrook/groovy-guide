@@ -1,0 +1,7 @@
+Groovy is a very accessible language that you can even try online without installing anything. Once you decide to incorporate it in your projects or use it as a language for scripts, you will need to install it (unless your operating system is enlightened enough to include Groovy by default).
+
+To try it online, you can access the [Groovy web console|http://groovyconsole.appspot.com/], which is hosted on Google App Engine. This allows you to write Groovy scripts, execute them, and see the results. You can even save your scripts as examples for others. There are already many scripts on there for you to investigate.
+
+!groovywebconsole.png!
+
+The web console is great for trying out Groovy or sharing interesting scripts and Groovy techniques, but for more substantial usage you will need to install it.

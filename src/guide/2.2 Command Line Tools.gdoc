@@ -1,0 +1,7 @@
+When you install Groovy and add its @bin@ directory to your path, you can immediately start using several tools:
+
+* @groovy@ - the command line interpreter for executing Groovy expressions or running Groovy scripts (\*.groovy files)
+* @groovyc@ - the compiler, which compiles \*.groovy files to \*.class
+* @groovysh@ - starts an interactive, command line shell in which you can execute Groovy statements
+* @groovyConsole@ - starts a GUI console in which you can write complete scripts and execute them (includes syntax highlighting)
+

@@ -1,0 +1,14 @@
+h1. ?: - the Elvis operator
+
+h2. Purpose
+
+It's a contraction of the standard Java ternary operator (<condition> ? <do-if-true> : <do-otherwise>) that uses the value from the condition if it evaluates to @true@ according to Groovy Truth, otherwise it uses the right-hand-side value.
+
+h2. Examples
+
+{code:java}
+def name = person.name ?: "Unknown"
+{code}
+
+h2. Description
+

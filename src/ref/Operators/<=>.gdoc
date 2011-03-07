@@ -1,0 +1,5 @@
+h1. <=>
+
+h2. Purpose
+
+Otherwise known as the 'spaceship' operator (because it looks like a flying saucer), the @<=>@ operator performs a 'less than, equal, or greater than' comparison between two objects. In effect, it's an operator version of [Comparator|api:java.util.Comparator].compare().
